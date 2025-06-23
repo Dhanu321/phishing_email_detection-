@@ -1,4 +1,4 @@
-# phishing_email_detection-
+
 # 📧 Phishing Email Detection using NLP
 
 This project builds a machine learning model to detect phishing emails using text preprocessing and NLP.
